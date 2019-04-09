@@ -9,5 +9,5 @@ DYLD_LIBRARY_PATH="$HOME/SLlibs/petsc/arch-darwin-c-opt/lib":"$HOME/SLlibs/slepc
 export DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH
 fi
 
-
+# Wouter made a comment here
 ./sparselizard;
